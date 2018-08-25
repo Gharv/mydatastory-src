@@ -1,0 +1,30 @@
+---
+title: getwd() and setwd()
+author: Greg Harvey
+date: '2018-06-27'
+slug: getwd-and-setwd
+categories:
+  - R
+tags:
+  - setwd
+  - directory
+description: "Learn what getwd() and setwd() do and how to use them."
+coverimage: "https://orig00.deviantart.net/f66c/f/2012/308/8/c/dark_mountains_plain_by_raywindly_kingdom-d5jxukx.jpg"
+---
+
+Many times getting started in any type of programing can be extremely difficult simply due to all the new terms being thrown at you. This is especially true for anyone who feels uncomfortable around computers in general. Here we are to talk about the basics of what `getwd()` and `setwd()`.  
+
+The `wd` in these functions stands for 'working directory', for anyone who doesn't know what a working directory is it is simply a folder that the program points to. So if you were to run a R command say `read.csv()` it would read from the current working directory. Look at the example paths below:  
+
+<p align="center">
+  <img src="https://www.webopedia.com/imagesvr_ce/5459/directory.gif">
+</p>
+
+Say for example we have a csv file in our `DOCS` directory, with `C:/` being our current working directory. There are two ways to go about getting the csv file named `data.csv` with our function `read.csv()`.  
+
+1. We can use `read.csv(DOCS/data.csv)`  
+2. We first use `setwd(DOCS)` then use `read.csv(data.csv)`  
+
+While the second one seems to be unessacery, if we had many files we wanted to read in changing the working directory before hand would save some time. In fact a typical directory path say `C:\Users\johnsmith\Documents\Work\data.csv` would be long to type out if we have 10 different data files stored in our `Work` directory.  
+
+So far I have only gone over `setwd()`, but `getwd()` is very simple and usally does not take parameters. Simply use `getwd()` to see what the current working directory is in R.

@@ -1,0 +1,11 @@
+---
+title: 'Toothpaste Data Story '
+description: "Statistics and the Logic of Discovery."
+author: 'Sarah Meyer '
+date: '2018-07-09'
+slug: toothpaste-data-story
+categories: []
+tags:
+  - t-test
+---
+data story test run 
