@@ -1,12 +1,13 @@
 # website_source
 
-## Intro
+## Introduction
 
 In the following replace `username` with your github account name.
 
 **Do not edit `username.github.io/` folder**
 
-Since our website is basically a folder containing static files, it is much easier to deploy than websites that require dynamic server-side languages such as PHP or databases. All we need is to upload the files to a server, and usually your website will be up and running shortly. In this case the `username.github.io/` folder is where our website is held.  
+Since our website is basically a folder containing static files, it is much easier to deploy than websites that require dynamic server-side languages such as PHP or databases. All we need is to upload the files to a server, and usually your website will be up and running shortly. In this case the `username.github.io/` folder is where our website is held.
+
 Our website is rendered in this `username.github.io/` because of we set an option in the `website_source/config.toml` file with `publishDir: "../username.github.io"` So we need to setup a GIT repository with the name of our website `username.github.io`  and it must follow `username.github.io` otherwise github will not know to use it as a website. We will clone the GIT repository and have two repositories as shown below: 
 
 ```
