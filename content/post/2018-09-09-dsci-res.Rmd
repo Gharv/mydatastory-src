@@ -1,0 +1,53 @@
+---
+title: "MyDataStory Resources"
+author: "Dan Maxwell"
+date: "`r Sys.Date()`"
+coverimage: https://orig00.deviantart.net/f66c/f/2012/308/8/c/dark_mountains_plain_by_raywindly_kingdom-d5jxukx.jpg
+description: Helpful technical resources for telling your data story.
+slug: dsci-resources
+tags:
+- resources
+- data science
+categories: R
+---
+
+The following organizations and resources are extremely helpful when you need to sharpen your data science skills or just need assistance telling a data story.    
+
+## **Organizations**
+
+### Informatics Institute
+https://informatics.institute.ufl.edu/
+
+The Informatics Institute is UF's official organization for all things data science at the university. When you join the institute's listserv, you'll receive valuable updates regarding  upcoming workshops, seminars, and events.
+
+### UF DSI
+http://www.dsiufl.org/
+
+UF DSI is a student-led organization which promotes data science at UF.  The organization offers R and Python workshops throughout the semester.  Be sure to sign up to their listserv for updates on current activities and offerings. 
+
+### R-Gators
+http://www.r-gators.com/
+
+R-Gators hosts the weekly R-Meetups and manages the R-User Listserv.  If your focus is R, you'll definitely want to join the R-User Listserv.
+
+### The Carpentries
+https://www.uf-carpentry.org/about/
+
+The UF Carptentry Club regularly hosts 1 and 2 day data science workshops.  The workshops are a great way to gain an introductory understanding of basic data science techniques.  But more importantly, they'll introduce you to a community of fellow learners.
+
+## **Resources**
+The following textbooks are used in MyDataStory R and Python learning experiences.  
+
+### Python Programming
+Sweigert, A. (2015). *Automate the boring stuff with Python: Practical programming for total beginners.* San Francisco, CA: No Starch Press. Free copy here: https://automatetheboringstuff.com/
+
+Zelle, J. (2016). *Python programming: An introduction to computer science.*  Portland, OR: Franklin, Beedle Associates.
+
+Chen, D. (2018). *Pandas for everyone: Python data analysis.* New York, NY: Addison-Wesley Professional.
+
+### R Programming
+Kabacoff, R. I. (2015). *R in action: Data analysis and graphics with R.* Shelter Island, NY: Manning Publications.
+
+Stowell, S. (2014). *Using R for statistics.* New York, NY:Apress & Springer.
+
+
