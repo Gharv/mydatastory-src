@@ -39,7 +39,7 @@ The UF Carptentry Club regularly hosts 1 and 2 day data science workshops.  The 
 The following textbooks are used in MyDataStory R and Python learning experiences.  
 
 ### Python Programming
-Sweigert, A. (2015). *Automate the boring stuff with Python: Practical programming for total beginners.* San Francisco, CA: No Starch Press. Free copy here: https://automatetheboringstuff.com/
+Sweigert, A. (2015). *Automate the boring stuff with Python: Practical programming for total beginners.* San Francisco, CA: No Starch Press. Retrieved from https://automatetheboringstuff.com/
 
 Zelle, J. (2016). *Python programming: An introduction to computer science.*  Portland, OR: Franklin, Beedle Associates.
 
