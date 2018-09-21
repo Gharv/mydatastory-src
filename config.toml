@@ -10,7 +10,7 @@ footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
-publishDir = "../mydatastory-dev.github.io"
+publishDir = "../mydatastory.github.io"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
