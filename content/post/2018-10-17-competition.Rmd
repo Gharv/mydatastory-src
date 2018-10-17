@@ -1,0 +1,42 @@
+---
+title: "MyDataStory Competition"
+author: "Dan Maxwell & Delaney Gomen"
+date: '2018-10-17'
+coverimage: https://orig00.deviantart.net/f66c/f/2012/308/8/c/dark_mountains_plain_by_raywindly_kingdom-d5jxukx.jpg
+description: The 2018/2019 MyDataStory Competition
+slug: mydatastory-competition
+tags:
+- competition
+- data science
+categories: R
+---
+
+Welcome to the official 2018/2019 MyDataStory competition website!  The myDataStory competition is a great way for undergraduates at the University of Florida to develop a data science portfolio that highlights their skills to potential employers. The competition also creates an informal learning opportunity, a fun way for you to hone your technical skills while mastering the fundamentals of data storytelling.  
+
+We hope you'll consider submitting *your* story.  Here's some important information about the competition: 
+
+### **Eligibility**
+Only registered UF undergraduates are eligible to participate.
+
+### **Submission Instructions**
+File formats?  .html, .md, .rmd etc...
+
+### **Deadlines**
+Sometime 2nd semester?
+
+### **Winners**
+Prizes will be awarded to the first, second, and third place winners.  The first-place winner will receive a $150 gift-card, the second-place winner's gift card will be $100, and the third-place winner's gift-card will be $50.  
+
+### **Contact**
+Please direct all questions regarding the MyDataStory competition to mydatastory@gmail.com
+
+### **Sponsors**
+We want to thank the following organizations for their support.
+
+![Informatics Institute](../fig/ghog_day.jpg)
+
+![UF DSI](../fig/ghog_day.jpg)
+
+![Marston Science Library](../fig/ghog_day.jpg)
+
+
