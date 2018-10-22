@@ -1,6 +1,6 @@
 ---
 title: "MyDataStory Competition"
-author: "Dan Maxwell & Delaney Gomen"
+author: "Delaney Gomen & Dan Maxwell"
 date: '2018-10-17'
 coverimage: https://github.com/mydatastory/mydatastory.github.io/blob/master/img/post_background_blue.png
 description: The 2018/2019 MyDataStory Competition
@@ -18,25 +18,80 @@ We hope you'll consider submitting *your* story.  Here's some important informat
 ### **Eligibility**
 Only registered UF undergraduates are eligible to participate.
 
-### **Submission Instructions**
-Pass through to participant's personal GitHub site.
+### **Submission Instructions** {.tabset}
+You will upload your submission as a link. This means that your project will have to have .html conversion capabilities and you will need to create a platform, either through GitHub or your own website, to publish your project. 
+
+#### Prepare
+
+Your submission must be through a clickable link on a browser interface. 
+
+You can export documents into .html format from Jupyter notebooks (.ipynb) or from RStudio as a RMarkdown (.Rmd).
+
+##### {.tabset .tabset-pills}
+
+###### iPynb
+
+
+* In your Jupyter notebook, click on "File"
+
+* Move your cursor to "Download As"
+
+* Select the "HTML (.html)" option
+
+###### RMarkdown
+
+
+* In RStudio, click on the arrow to the right of "Knit." 
+
+* Select "Knit to HTML."
+
+* A HTML version of your Rmarkdown file should appear in your working directory. 
+
+#### Upload
+
+From there, you can upload your .html file to the internet in multiple ways. If you have your own website, you may send in a link of the published project from your website. 
+
+If you don't have a website and don't want to set one up, there is a quick way to create a link to submit:
+
+First, you will need a GitHub account. If you do not have one, create one by following the instructions at https://github.com/join. Once you have made a GitHub account, make a repository. Instructions can be found here https://help.github.com/articles/create-a-repo/. 
+
+In your repository, upload the folder you are creating your project in (in either Rmarkdown or iPython) which includes the .html file. 
+
+Click on the link that directs you to the .html file. For example:
+
+https://github.com/mydatastory/r_intro_class/blob/master/_episodes_html/data_structures_part1.html
+
+Now append http://htmlpreview.github.com/? to the beginning of your link. It will look like:
+
+http://htmlpreview.github.com/?https://github.com/mydatastory/r_intro_class/blob/master/_episodes_html/data_structures_part1.html
+
+Congratulations! You now have a working link to submit. 
+
+#### Submit 
+
+Send your name, UFL email, phone number, major and year, and submission link to **mydatastory@gmail.com** with "Submission" in the subject line. 
+
+You may submit more than once up until the deadline, but we will only consider your latest submission. 
 
 ### **Deadlines**
-February 15, 2019.
+All submissions must be received by midnight, February 15, 2019.
 
 ### **Winners**
 Prizes will be awarded to the first, second, and third place winners.  The first-place winner will receive a $150 gift-card, the second-place winner's gift card will be $100, and the third-place winner's gift-card will be $50.  
 
 ### **Contact**
-Please direct all questions regarding the MyDataStory competition to mydatastory@gmail.com
+Please direct all questions regarding the MyDataStory competition to **mydatastory@gmail.com**
 
 ### **Sponsors**
 We want to thank the following organizations for their support.
 
-![Informatics Institute](../fig/ghog_day.jpg)
+![](../fig/ufii_logo.png)
 
-![UF DSI](../fig/ghog_day.jpg)
+\newline
+![](../fig/ufdsi_logo.png)
 
-![Marston Science Library](../fig/ghog_day.jpg)
+\newline
+![](../fig/libraries_logo.png)
+
 
 
